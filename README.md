@@ -32,6 +32,8 @@ Agradecemos aos seguintes contribuidores por seu apoio e trabalho no projeto:
       <strong>Brian Muniz Silveira</strong>
       <p>Front-End e Performance</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/julioresende77">
         <img src="https://avatars.githubusercontent.com/u/101299137?v=4" alt="Foto do Contribuidor Front-End" style="width: 100px; height: 100px;"/>
