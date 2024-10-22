@@ -40,5 +40,21 @@ Agradecemos aos seguintes contribuidores por seu apoio e trabalho no projeto:
       <strong>Julio Resende</strong>
       <p>Front-End</p>
     </td>
+    <td align="center">
+      <a href="https://github.com/tonyrossett">
+        <img src="https://avatars.githubusercontent.com/u/129084739?v=4" alt="Foto do Contribuidor Front-End" style="width: 100px; height: 100px;"/>
+      </a>
+      <br />
+      <strong>Tony Rossett</strong>
+      <p>Front-End</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ferreraks">
+        <img src="https://avatars.githubusercontent.com/u/115766497?v=4" alt="Foto do Contribuidor Front-End" style="width: 100px; height: 100px;"/>
+      </a>
+      <br />
+      <strong>Julio Resende</strong>
+      <p>Front-End</p>
+    </td>
   </tr>
 </table>
