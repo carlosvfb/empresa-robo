@@ -55,7 +55,7 @@ Agradecemos aos seguintes contribuidores por seu apoio e trabalho no projeto:
         <img src="https://avatars.githubusercontent.com/u/115766497?v=4" alt="Foto do Contribuidor Front-End" style="width: 100px; height: 100px;"/>
       </a>
       <br />
-      <strong>Julio Resende</strong>
+      <strong>Arthur Ferreira Borges</strong>
       <p>Front-End</p>
     </td>
   </tr>
